@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://http://44.202.22.164:6500/content/repositories/maven1//</url>
+	      <url> http://44.202.22.164:6500/content/repositories/maven1//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://44.202.22.164:6500/content/repositories/maven//</url>
+	      <url> http://44.202.22.164:6500/content/repositories/maven//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
